@@ -75,7 +75,7 @@ h1 { font-size: 26px; letter-spacing: -.5px; margin: 0 0 6px; }
 
 .dropzone {
   border: 1.5px dashed var(--line); border-radius: 18px; background: var(--bg-soft);
-  padding: 46px 24px; text-align: center; transition: .18s;
+  padding: 46px 24px; text-align: center; transition: .18s; cursor: pointer;
 }
 .dropzone.drag { border-color: var(--accent); background: var(--accent-soft); }
 .dz-icon { font-size: 40px; }

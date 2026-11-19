@@ -92,7 +92,22 @@ $$(".tab").forEach((tab) =>
 /* ---------------- upload ---------------- */
 
 const dropzone = $("#dropzone");
+const browseButton = $("#browse-btn");
 const fileInput = $("#file-input");
+
+browseButton.addEventListener("click", (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+  fileInput.value = "";
+  fileInput.click();
+});
+
+dropzone.addEventListener("click", (e) => {
+  if (e.target !== fileInput) {
+    fileInput.value = "";
+    fileInput.click();
+  }
+});
 
 fileInput.addEventListener("change", () => {
   if (fileInput.files[0]) handleUpload(fileInput.files[0]);

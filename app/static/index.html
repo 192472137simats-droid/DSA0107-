@@ -75,9 +75,9 @@
     <div id="dropzone" class="dropzone">
       <div class="dz-icon">📄</div>
       <div class="dz-title">Drop a research paper here</div>
-      <div class="dz-sub">PDF · up to 25 MB</div>
-      <label class="btn primary" id="browse-btn" for="file-input">Browse PDF</label>
-      <input type="file" id="file-input" accept="application/pdf,.pdf" hidden />
+      <div class="dz-sub">PDF · up to 25 MB (or click anywhere to browse)</div>
+      <button class="btn primary" id="browse-btn" type="button" aria-controls="file-input">Browse PDF</button>
+      <input type="file" id="file-input" accept=".pdf,application/pdf" style="display: none;" />
     </div>
 
     <form class="import-row" id="import-form">
