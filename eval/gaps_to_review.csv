@@ -1,7 +1,0 @@
-paper,gap_id,verdict,confidence,gap_title,is_real_gap
-"Deep Residual Learning for Image Recognition",g1,open,high,"Unexplained optimization degradation mechanics in deep plain networks",
-"Deep Residual Learning for Image Recognition",g2,open,high,"Overfitting in aggressively deep networks on small datasets",
-"Deep Residual Learning for Image Recognition",g3,open,high,"Generalization of residual connections to non-vision domains",
-"Deep Residual Learning for Image Recognition",g4,open,high,"Lack of theoretical proof for residual preconditioning",
-"Deep Residual Learning for Image Recognition",g5,open,high,"Absence of empirical hardware latency and GPU memory profiling",
-"Attention Is All You Need",g3,open,high,"Non-sequential auto-regressive decoding",
