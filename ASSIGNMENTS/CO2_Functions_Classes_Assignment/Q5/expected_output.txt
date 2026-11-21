@@ -1,0 +1,13 @@
+CO2 - Q5: STATIC MEMBERS & ARRAYS OF OBJECTS (BUS TICKETS)
+Student: G SAI TEJA (192472137)
+---------------------------------------------------------
+
+--- 1. Predict the Output Verification ---
+101 103 104 4
+
+--- 2. Complete the Code Verification ---
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Seat 3
+Dev: Waiting
+Issued: 3

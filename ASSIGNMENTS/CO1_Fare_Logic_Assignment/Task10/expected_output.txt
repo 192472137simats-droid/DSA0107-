@@ -1,0 +1,22 @@
+TASK 10: COMPARISON OF EXPECTATIONS WITH EXECUTION
+Student: G SAI TEJA (192472137)
+--------------------------------------------------
+
+--- Simulating 20000 Journeys ---
+32-bit int accumulator (paise): 44000000 -> Rs 440000
+64-bit long long (paise)       : 44000000 -> Rs 440000
+64-bit double (rupees)         : 440000.00 Rs
+>> 32-bit integer safe for this volume.
+
+--- Simulating 500000 Journeys ---
+32-bit int accumulator (paise): 1100000000 -> Rs 11000000.00
+64-bit long long (paise)       : 1100000000 -> Rs 11000000.00
+64-bit double (rupees)         : 11000000.00 Rs
+>> 32-bit integer safe for this volume.
+
+--- Simulating 3000000 Journeys ---
+32-bit int accumulator (paise): -1989934592 -> Rs -19899345.92
+64-bit long long (paise)       : 6600000000 -> Rs 66000000.00
+64-bit double (rupees)         : 66000000.00 Rs
+>> ALERT: 32-bit INT OVERFLOW DETECTED! Difference = Rs 85899345.92
+

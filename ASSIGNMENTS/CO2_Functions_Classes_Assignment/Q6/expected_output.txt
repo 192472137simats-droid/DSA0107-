@@ -1,0 +1,9 @@
+CO2 - Q6: FRIEND FUNCTIONS & INLINE OPTIMIZATION
+Student: G SAI TEJA (192472137)
+------------------------------------------------
+
+205 false
+Same time difference: 0, is earlier: false
+
+Benchmarking 10,000,000 connection planning comparisons...
+Processed 10M operations in 37 ms (Checksum: 2050000000)

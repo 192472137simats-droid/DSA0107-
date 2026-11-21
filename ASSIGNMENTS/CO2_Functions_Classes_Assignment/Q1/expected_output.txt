@@ -1,0 +1,14 @@
+====================================================
+CO2 - Q1: PARAMETER PASSING MODES (HOSTEL FEE SYSTEM)
+Student: G SAI TEJA (192472137)
+====================================================
+
+--- 1. Predict the Output Verification ---
+1 12 13
+1 100
+16 13 6 
+
+--- 2. Complete the Code Verification ---
+after call by value: 45000
+after call by reference: 40500
+after call by pointer (15% sports): 38250

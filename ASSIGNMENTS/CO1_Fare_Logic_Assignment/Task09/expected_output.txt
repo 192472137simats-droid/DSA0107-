@@ -1,0 +1,17 @@
+TASK 09: FARE LOGIC TEST SUITE EXECUTION
+Student: G SAI TEJA (192472137)
+----------------------------------------
+
+Test Case                                 Exp Fare    Act Fare    Status      
+------------------------------------------------------------------------------
+Normal Inner Off-Peak (12:00)             Rs 10       Rs 10       PASSED [OK]
+Normal Middle Off-Peak (14:00)            Rs 20       Rs 20       PASSED [OK]
+Normal Outer Off-Peak (11:00)             Rs 30       Rs 30       PASSED [OK]
+Boundary 8:00 AM Morning Peak Start       Rs 12       Rs 12       PASSED [OK]
+Boundary 10:00 AM Morning Peak End (Off-Peak)Rs 10       Rs 10       PASSED [OK]
+Boundary 17:00 Evening Peak Start         Rs 36       Rs 36       PASSED [OK]
+Boundary 20:00 Evening Peak End (Off-Peak)Rs 30       Rs 30       PASSED [OK]
+Balance leaving exactly Rs 50             Rs 10       Rs 10       PASSED [OK]
+Insufficient balance test                 Rs 36       Rs 36       PASSED [OK]
+
+Test Suite Result: 9 / 9 passed.

@@ -1,0 +1,12 @@
+CO2 - Q2: RETURN BY REFERENCE AND ITS HAZARDS
+Student: G SAI TEJA (192472137)
+---------------------------------------------
+
+Original marks: 78 85 92 65 88 
+After moderating highest mark (+2): 78 85 94 65 88 
+New highest mark value: 94
+
+Vector Reallocation Invalidation Analysis:
+Reference to v[0] before growth: 10
+Notice: Accessing refFirst now is undefined behaviour if memory buffer was reallocated!
+Always prefer indexing or updating references after container growth.

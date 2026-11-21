@@ -1,0 +1,15 @@
+========================================================
+NAMMA METRO SMART-CARD FARE SYSTEM (OOP ARCHITECTURE)
+Student: G SAI TEJA (192472137)
+========================================================
+
+Card [SC1001] Balance: Rs 100.00
+Journey: Destination=Outer, Hour=9:00 (Peak=Yes)
+Calculated Concession Fare: Rs 18.00
+Status: Journey Approved. Fare Deducted.
+Card [SC1001] Balance: Rs 82.00
+
+Attempting high-fare journey with insufficient post-balance:
+Regular Outer Peak Fare: Rs 36.00
+Status: Denied! Balance would fall below minimum threshold (Rs 50).
+Card [SC1001] Balance: Rs 82.00

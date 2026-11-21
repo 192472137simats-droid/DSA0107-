@@ -1,0 +1,10 @@
+TASK 04: IMPLICIT TYPE CONVERSIONS & PREDICTIONS
+Student: G SAI TEJA (192472137)
+------------------------------------------------
+a / b = 3, static_cast<double>(a) / b = 3.5
+ch = C, ch + 1 = 68
+flag = 1 (true)
+Comparison (-1 < 1u): s >= u
+
+Safe explicit cast resolution:
+Explicit cast: s < u (correct arithmetic relationship preserved)

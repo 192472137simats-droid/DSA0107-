@@ -1,0 +1,20 @@
+TASK 02: TOKENS AND CONSTANTS VERIFICATION
+Student: G SAI TEJA (192472137)
+-------------------------------------------
+Base Fares (Paise -> Rupees):
+Inner Zone : 1000 paise (Rs 10.00)
+Middle Zone: 2000 paise (Rs 20.00)
+Outer Zone : 3000 paise (Rs 30.00)
+Peak Surcharge: 20%
+Minimum Card Balance Requirement: Rs 50.00
+
+Peak Window Boundary Checks:
+Hour  7:00 -> OFF-PEAK (Standard Fare)
+Hour  8:00 -> PEAK (Surcharge Applies)
+Hour  9:00 -> PEAK (Surcharge Applies)
+Hour 10:00 -> OFF-PEAK (Standard Fare)
+Hour 16:00 -> OFF-PEAK (Standard Fare)
+Hour 17:00 -> PEAK (Surcharge Applies)
+Hour 19:00 -> PEAK (Surcharge Applies)
+Hour 20:00 -> OFF-PEAK (Standard Fare)
+Hour 21:00 -> OFF-PEAK (Standard Fare)

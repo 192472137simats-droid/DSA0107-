@@ -1,0 +1,19 @@
+TASK 12: DAY-4 DESIGN CHALLENGE - ADAPTED METRO ARCHITECTURE
+Student: G SAI TEJA (192472137)
+============================================================
+
+Scenario: Airport Journey (Weekday Peak 9 AM)       
+  Destination: Airport   Time: 9:00  Day: Weekday -> Fare: Rs 72.00
+
+Scenario: Airport Journey (Weekend 11 AM)           
+  Destination: Airport   Time: 11:00  Day: Weekend -> Fare: Rs 54.00
+
+Scenario: Inner Zone Journey with Pass (Weekday Peak)
+  Destination: Inner     Time: 9:00  Day: Weekday -> Fare: Rs 0.00
+
+Scenario: Outer Zone Journey with Inner/Middle Pass (Weekday Off-Peak)
+  Destination: Outer     Time: 12:00  Day: Weekday -> Fare: Rs 30.00
+
+Scenario: Outer Zone Journey on Weekend (18:00, no peak on weekend)
+  Destination: Outer     Time: 18:00  Day: Weekend -> Fare: Rs 27.00
+

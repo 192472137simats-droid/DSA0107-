@@ -1,0 +1,20 @@
+CO2 - Q4: CLASS SPECIFICATION WITH ARRAYS (MINI-STATEMENT)
+Student: G SAI TEJA (192472137)
+----------------------------------------------------------
+
+=========================================
+MINI-STATEMENT FOR A/C: SB-90214
+Current Balance: Rs 8450.00
+Last 10 Transactions:
+-----------------------------------------
+Tx  1: [CR] +Rs   200.00
+Tx  2: [CR] +Rs   300.00
+Tx  3: [DR] -Rs   150.00
+Tx  4: [CR] +Rs   400.00
+Tx  5: [DR] -Rs   250.00
+Tx  6: [CR] +Rs   800.00
+Tx  7: [DR] -Rs   100.00
+Tx  8: [CR] +Rs   600.00
+Tx  9: [DR] -Rs    50.00
+Tx 10: [CR] +Rs  1200.00
+=========================================

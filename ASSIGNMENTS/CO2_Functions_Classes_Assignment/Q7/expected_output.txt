@@ -1,0 +1,8 @@
+CO2 - Q7: DAY-4 DESIGN CHALLENGE - DIAGNOSE, REDESIGN & VALIDATE
+Student: G SAI TEJA (192472137)
+================================================================
+
+Performance Comparison (5000000 insertions):
+Legacy Shifting Buffer Time : 114 ms (O(k) element moving)
+Redesigned Circular Ring Time: 41 ms (O(1) pointer wrapping)
+Performance Speedup Factor  : 2.78049x

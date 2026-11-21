@@ -1,0 +1,21 @@
+TASK 08: SAFE INPUT/OUTPUT AND ERROR RECOVERY
+Student: G SAI TEJA (192472137)
+---------------------------------------------
+--- Test 1: Invalid alphanumeric hour followed by valid recharge ---
+Simulating input stream: "abc 5000
+"
+Enter hour (0-23): INVALID INPUT! Letters or out-of-range detected.
+Recovered! Skipped erroneous token: 'abc'
+Enter recharge amount (paise): Recharged: Rs 50.00
+
+--- Test 2: Valid inputs ---
+Simulating input stream: "9 2000
+"
+Enter hour (0-23): Accepted Hour: 9:00
+Enter recharge amount (paise): Recharged: Rs 20.00
+
+--- Test 3: Negative recharge ---
+Simulating input stream: "14 -1000
+"
+Enter hour (0-23): Accepted Hour: 14:00
+Enter recharge amount (paise): REJECTED! Recharge must be positive numeric amount.

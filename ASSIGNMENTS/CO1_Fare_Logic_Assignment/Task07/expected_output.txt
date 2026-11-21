@@ -1,0 +1,13 @@
+TASK 07: PROCEDURAL VS OBJECT-ORIENTED DESIGN
+Student: G SAI TEJA (192472137)
+---------------------------------------------
+1. Procedural Execution:
+Initial Global Balance: Rs 100
+After Rs 20 deduction : Rs 80
+Corrupted Balance     : Rs -5 (CRITICAL INVARIANT VIOLATION!)
+
+2. Object-Oriented Execution:
+Initial Card Balance  : Rs 100
+After Rs 20 deduction : Rs 80
+Attempt Rs 40 deduct  : Denied by Invariant Enforcement
+Final Secure Balance  : Rs 80

@@ -1,0 +1,7 @@
+Fare Rs 10.00  balance Rs 90
+Fare Rs 36.00  balance Rs 54
+Denied (low balance)  balance Rs 54
+
+Boundary Checks (10 AM off-peak & 8 PM off-peak):
+10 AM Inner Fare: Rs 10.00 (Off-Peak)
+8 PM Inner Fare : Rs 10.00 (Off-Peak)

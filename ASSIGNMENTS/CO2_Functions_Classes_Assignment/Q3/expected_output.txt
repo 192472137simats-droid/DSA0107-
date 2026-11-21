@@ -1,0 +1,9 @@
+CO2 - Q3: FUNCTION OVERLOADING & DEFAULT ARGUMENTS
+Student: G SAI TEJA (192472137)
+--------------------------------------------------
+
+Call 1: calculateCharge(500)       -> Rs 70.00 (500g, normal)
+Call 2: calculateCharge(500, true) -> Rs 145.00 (500g, express)
+Call 3: calculateCharge(2.5)       -> Rs 150.00 (2.5kg, normal)
+Call 4: calculateCharge(2.5, true, true) -> Rs 275.00
+Call 5: calculateCharge(Parcel)    -> Rs 245.00

@@ -1,0 +1,12 @@
+TASK 11: FINAL SYSTEM DESIGN & ARCHITECTURE DEFENCE
+Student: G SAI TEJA (192472137)
+---------------------------------------------------
+Loaded dynamic fare configuration in 29 microseconds.
+Inner Zone Fare  : Rs 10
+Outer Zone Fare  : Rs 30
+Airport Zone Fare: Rs 60
+
+Architecture Evaluation:
+- Separation of business rules from executable code allows instant fare revisions
+  without recompiling and re-deploying gate firmware.
+- Lookup cost (O(1) unordered_map or small array) is negligible compared to gate I/O.

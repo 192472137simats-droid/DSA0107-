@@ -1,0 +1,17 @@
+TASK 03: DATA TYPES & SYSTEM SIZES AUDIT
+Student: G SAI TEJA (192472137)
+----------------------------------------
+sizeof(bool)        : 1 byte(s)
+sizeof(char)        : 1 byte(s)
+sizeof(int)         : 4 byte(s), max = 2147483647
+sizeof(long long)   : 8 byte(s), max = 9223372036854775807
+sizeof(float)       : 4 byte(s)
+sizeof(double)      : 8 byte(s)
+sizeof(size_t)      : 8 byte(s)
+
+--- Precision Drift Audit (100,000 Journeys @ Rs 10.20) ---
+Accumulated with double  : 1019999.9999981592 Rupees
+Accumulated with int-paise: 1020000.0000000000 Rupees (102000000 paise)
+Discrepancy (Floating error): -0.0000018408 Rupees
+
+Conclusion: Storing currency in integer paise eliminates floating point rounding errors.
