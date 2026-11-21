@@ -1,0 +1,9 @@
+CO4 - TASK 01: REFACTORED PAYROLL CLASS HIERARCHY
+Student: G SAI TEJA (192472137)
+=================================================
+
+[Professor] ID: 101, Name: Dr. Ramanathan   -> Net Pay: Rs 135700.00
+[Lab Assistant] ID: 204, Name: Karthik S.       -> Net Pay: Rs 45440.00
+[Guest Faculty] ID: 305, Name: Ananya Iyer      -> Net Pay: Rs 54000.00
+-------------------------------------------------
+Total Monthly College Payroll: Rs 235140.00

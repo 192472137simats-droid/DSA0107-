@@ -1,0 +1,19 @@
+CO3 - Q5: OVERLOADING ++, COMPARISON, AND [] OPERATORS
+Student: G SAI TEJA (192472137)
+-----------------------------------------------------
+
+--- 1. Predict the Output Verification ---
+5 7 7
+
+--- 2. Playlist Simulation with Overloaded Operators ---
+Track [0]: Acoustic Melody
+Track [1]: Electro Rhythm
+Track [2]: Classical Serenade
+
+Out-of-range Index Verification (Testing -1 and index 3):
+Access pl[-1]: INVALID_INDEX
+Access pl[3] : INVALID_INDEX
+
+Timer Increment Verification:
+Initial Time: 00:59
+After ++t   : 01:00

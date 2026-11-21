@@ -1,0 +1,10 @@
+CO4 - TASK 06: EXTENSIBLE VEHICLE RENTAL FLEET HIERARCHY
+Student: G SAI TEJA (192472137)
+========================================================
+
+Vehicle Type              Registration      Days (Late) Total Rental Fee
+------------------------------------------------------------------------
+Bicycle                   BIKE-01           3d (0d late)   Rs 450.00
+Car                       TN-09-AB-1234     2d (1d late)   Rs 10000.00
+Electric Car              TN-09-EV-5678     5d (2d late)   Rs 27664.00
+Electric Bus (Extension)  TN-09-BUS-9999    1d (0d late)   Rs 9500.00

@@ -1,0 +1,8 @@
+CO3 - Q2: DEEP COPY CONSTRUCTOR & RULE OF THREE
+Student: G SAI TEJA (192472137)
+----------------------------------------------
+
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+
+Self-assignment test:
+Self-assignment passed cleanly: Ibuprofen ORS

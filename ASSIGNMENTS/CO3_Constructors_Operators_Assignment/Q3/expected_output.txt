@@ -1,0 +1,10 @@
+CO3 - Q3: DYNAMIC CONSTRUCTORS & DESTRUCTORS (RAII)
+Student: G SAI TEJA (192472137)
+--------------------------------------------------
+
+--- 1. Predict the Output Verification ---
++A +B -B copyAc use -Ac +P -P end
+-A 
+--- 2. Dynamic 2D Allocation & RAII Simulation ---
+[Event Created] "Grand Annual Symphony" with 50 seats.
+[Event Summary] "Grand Annual Symphony" closed. Total Bookings: 4 / 50. Memory safely freed.

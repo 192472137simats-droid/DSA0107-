@@ -1,0 +1,18 @@
+CO4 - TASK 02: UNIVERSITY HIERARCHY & VIRTUAL BASE CLASSES
+Student: G SAI TEJA (192472137)
+=========================================================
+
+--- Predict the Output Program Trace ---
+Person Student Staff TA 
+
+--- Demonstrating Teaching Assistant Construction ---
+[Constructor] Person (Sai Teja)
+[Constructor] Student (M.Tech CSE)
+[Constructor] Staff (CSE Dept)
+[Constructor] TeachingAssistant (15 hrs/week)
+
+--- Displaying TA Record ---
+TeachingAssistant: Sai Teja [ID: 192472137]
+  Academic: M.Tech CSE (CGPA: 9.4)
+  Employment: CSE Dept (Salary: Rs 25000)
+  Load: 15 hrs/week

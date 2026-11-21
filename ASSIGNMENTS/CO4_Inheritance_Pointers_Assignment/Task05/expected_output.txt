@@ -1,0 +1,9 @@
+CO4 - TASK 05: POINTERS TO OBJECTS & THIS POINTER
+Student: G SAI TEJA (192472137)
+================================================
+
+--- 1. Complete the Code Verification ---
+324.00
+
+--- 2. Highest Cart Search using Pointers ---
+Highest Active Cart is Cart #2 with total: Rs 313.50

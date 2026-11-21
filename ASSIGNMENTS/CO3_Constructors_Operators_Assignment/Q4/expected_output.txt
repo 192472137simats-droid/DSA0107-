@@ -1,0 +1,9 @@
+CO3 - Q4: OVERLOADING ARITHMETIC & STREAM OPERATORS
+Student: G SAI TEJA (192472137)
+--------------------------------------------------
+
+Rs 200.00
+true
+
+Additional Carry Test (Paise carrying to Rupees):
+Rs 0.75 + Rs 0.50 = Rs 1.25

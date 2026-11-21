@@ -1,0 +1,7 @@
+CO5 - TASK 01: POLYMORPHIC HOSPITAL BILLING SYSTEM
+Student: G SAI TEJA (192472137)
+=================================================
+
+OP Ravi: 1700
+IP Meena: 47500
+Total 49200

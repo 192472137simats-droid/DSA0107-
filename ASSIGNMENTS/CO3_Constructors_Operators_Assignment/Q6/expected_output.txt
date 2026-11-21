@@ -1,0 +1,12 @@
+CO3 - Q6: RULES OF OPERATOR OVERLOADING (SMS TEXT GATEWAY)
+Student: G SAI TEJA (192472137)
+---------------------------------------------------------
+
+Message 1    : Hello SIMATS! 
+Message 2    : Your OTP is 48921.
+Concatenated : Hello SIMATS! Your OTP is 48921.
+Equality check (msg1 == msg2): false
+After self-assignment: Hello SIMATS! Your OTP is 48921.
+
+Performance benchmark: 100,000 concatenations...
+Executed in 27 ms. Final string length: 10007

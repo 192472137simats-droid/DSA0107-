@@ -1,0 +1,13 @@
+CO5 - TASK 03: ABSTRACT PAYERS & HIGH-VOLUME BENCHMARK (A3 & B3)
+Student: G SAI TEJA (192472137)
+================================================================
+
+Sample Bill: Rs 40000
+  Self-Pay (Patient) Covered: Rs 40000
+  Insurance Payer Covered: Rs 36000
+  Government Scheme Covered: Rs 25000
+
+Benchmarking Dispatch Mechanism (1000000 operations)...
+Switch-based Dispatch Time   : 30 ms (Sum: 1.7e+09)
+Virtual-table Dispatch Time : 10 ms (Sum: 1.7e+09)
+Virtual call overhead is negligible (< a few nanoseconds per invocation).

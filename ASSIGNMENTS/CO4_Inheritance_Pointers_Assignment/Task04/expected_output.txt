@@ -1,0 +1,11 @@
+CO4 - TASK 04: POINTERS TO DERIVED CLASSES FORENSICS
+Student: G SAI TEJA (192472137)
+====================================================
+
+--- 1. Predict the Output Verification ---
+3.5 4 3.5
+
+--- 2. Repaired Polymorphic Deletion (No Leaks) ---
+Polymorphic Rate: 4%
+[Destructor] RepairedSeniorAccount memory released cleanly.
+[Destructor] RepairedAccount destroyed safely.

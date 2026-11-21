@@ -1,0 +1,19 @@
+CO3 - Q1: CONSTRUCTORS & CONSTRUCTOR OVERLOADING
+Student: G SAI TEJA (192472137)
+----------------------------------------------
+
+1. Creating Book with Default Constructor:
+Book [ISBN: 000-000, Title: "Untitled", Copies: 0]
+
+2. Creating Donated Book (Delegated Constructor):
+Book [ISBN: DONATED, Title: "Data Structures in C++", Copies: 1]
+
+3. Creating Fully Specified Book:
+Book [ISBN: 978-0131103627, Title: "The C++ Programming Language", Copies: 15]
+
+4. Invariant Validation (Testing Negative Copies):
+[Warning] Negative copies passed for "Faulty Record". Reset to 0.
+Book [ISBN: 978-0000000000, Title: "Faulty Record", Copies: 0]
+
+5. Explicit Constructor Verification:
+Book [ISBN: DONATED, Title: "Explicit Title Demonstration", Copies: 1]

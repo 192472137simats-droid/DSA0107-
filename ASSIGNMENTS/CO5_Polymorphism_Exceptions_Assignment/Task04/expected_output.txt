@@ -1,0 +1,12 @@
+CO5 - TASK 04: EXTENSIBLE HOSPITAL SYSTEM & PRODUCTION DEFENSE
+Student: G SAI TEJA (192472137)
+==============================================================
+
+Patient: PAT-001 | Category: Consultation                   | Total: Rs 1500.00
+Patient: PAT-002 | Category: Day-Care Surgery (Extension)   | Total: Rs 32500.00
+--------------------------------------------------------------
+Batch Total: Rs 34000.00
+
+Testing Exception Safety with Negative Input:
+[Caught Exception] Successfully caught: Consultation fee cannot be negative
+System remains operational with zero resource leakage.

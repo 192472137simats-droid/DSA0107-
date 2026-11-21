@@ -1,0 +1,19 @@
+CO3 - Q7: COMPLEX IMPEDANCE CALCULATOR (AC CIRCUITS)
+Student: G SAI TEJA (192472137)
+====================================================
+
+Component Impedances:
+Resistor   ZR : 50.00 + 0.00j Ohms
+Inductor   ZL : 0.00 + 30.00j Ohms
+Capacitor  ZC : 0.00 - 20.00j Ohms
+
+--- Series RLC Circuit Analysis ---
+Total Series Impedance Z_series: 50.00 + 10.00j Ohms
+Magnitude |Z_series|          : 50.99 Ohms
+
+--- Parallel RL Circuit Analysis ---
+Total Parallel Impedance Z_par : 13.24 + 22.06j Ohms
+Magnitude |Z_parallel|        : 25.72 Ohms
+
+--- Division by Zero Safety Test ---
+Result of ZR / 0: 0.00 + 0.00j
